@@ -1,0 +1,106 @@
+{
+    "responseData": {
+        "feed": {
+            "feedUrl": "http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss",
+            "title": "NASA Image of the Day",
+            "link": "http://www.nasa.gov/",
+            "author": "",
+            "description": "The latest NASA \"Image of the Day\" image.",
+            "type": "rss20",
+            "entries": [
+                {
+                    "title": "Layers and Dark Dunes on the Surface of Mars",
+                    "link": "http://www.nasa.gov/content/layers-and-dark-dunes-on-the-surface-of-mars",
+                    "author": "",
+                    "publishedDate": "Fri, 10 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "This image of a circular depression on the surface of Mars was acquired on Jan. 5, 2015 by the High Resolution Imaging Science ...",
+                    "content": "This image of a circular depression on the surface of Mars was acquired on Jan. 5, 2015 by the High Resolution Imaging Science Experiment (HiRISE) camera on NASA&#39;s Mars Reconnaissance Orbiter (MRO). The spacecraft has been orbiting Mars since March 2006 and completed its 40,000th orbit around Mars on Feb. 7, 2015.\n\nThe target of this observation is a circular depression in a dark-toned unit associated with a field of cones to the northeast. At the scale of an image taken by MRO&#39;s Context Camera, which provides wide area views to provide context for high-resolution analysis, the depression appears to expose layers especially on the sides or walls, which are overlain by dark sands presumably associated with the dark-toned unit. The HiRISE camera&#39;s resolution, which is far higher than that of the Context Camera and its larger footprint, can help identify possible layers.\n\nHiRISE is one of six instruments on the Mars Reconnaissance Orbiter. The University of Arizona, Tucson, operates HiRISE, which was built by Ball Aerospace &amp; Technologies Corp., Boulder, Colo. NASA&#39;s Jet Propulsion Laboratory, a division of the California Institute of Technology in Pasadena, manages the Mars Reconnaissance Orbiter Project for NASA&#39;s Science Mission Directorate, Washington.\n\nMore information and image products\n\nImage Credit: NASA/JPL-Caltech/University of Arizona\nCaption: HiRISE Science Team",
+                    "categories": []
+                },
+                {
+                    "title": "The Mercury Astronauts",
+                    "link": "http://www.nasa.gov/content/the-mercury-astronauts",
+                    "author": "",
+                    "publishedDate": "Thu, 09 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "On April 9, 1959, NASA's first administrator, Dr. Keith Glennan, announced the names of the agency's first group of astronauts ...",
+                    "content": "On April 9, 1959, NASA's first administrator, Dr. Keith Glennan, announced the names of the agency's first group of astronauts at a news conference in Washington, D.C. Now known as the \"Original Seven,\" they included three Naval aviators, M. Scott Carpenter, Walter M. Schirra Jr., and Alan B. Shepard Jr.; three Air Force pilots, L. Gordon Cooper Jr., Virgil I. (Gus) Grissom, and Donald K. (Deke) Slayton; along with Marine Corps aviator John H. Glenn Jr. This group photo of the original Mercury astronauts was taken in June 1963 at the Manned Spacecraft Center (MSC), now Johnson Space Center, in Houston, Texas. The astronauts are, left-to-right: Cooper, Schirra, Shepard, Grissom, Glenn, Slayton and Carpenter.\n\nProject Mercury became NASA's first major undertaking. The objectives of the program were to place a human-rated spacecraft into orbit around Earth, observe the astronaut's performance in such conditions and safely recover the astronaut and the spacecraft. The Mercury flights proved that humans could live and work in space, and paved the way for the Gemini and Apollo programs as well as for all further human spaceflight.\n\nImage Credit: NASA",
+                    "categories": []
+                },
+                {
+                    "title": "Sea Ice Off East Antarctica's Princess Astrid Coast",
+                    "link": "http://www.nasa.gov/content/sea-ice-off-east-antarcticas-princess-astrid-coast",
+                    "author": "",
+                    "publishedDate": "Wed, 08 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "On April 5, 2015, the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite acquired this ...",
+                    "content": "On April 5, 2015, the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite acquired this natural-color image of sea ice off the coast of East Antarctica’s Princess Astrid Coast.\n\nWhite areas close to the continent are sea ice, while white areas in the northeast corner of the image are clouds. One way to better distinguish ice from clouds is with false-color imagery. In the false-color view of the scene here, ice is blue and clouds are white.\n\nThe image was acquired after Antarctic sea ice had passed its annual minimum extent (reached on Feb. 20, 2015), and had resumed expansion toward its maximum extent (usually reached in September).\n\nMore information: NASA's Earth Observatory\n\nImage Credit: NASA/Jeff Schmaltz, LANCE/EOSDIS Rapid Response\nCaption: Kathryn Hansen",
+                    "categories": []
+                },
+                {
+                    "title": "Searching for Water in the Solar System and Beyond",
+                    "link": "http://www.nasa.gov/content/searching-for-water-in-the-solar-system-and-beyond",
+                    "author": "",
+                    "publishedDate": "Tue, 07 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "As NASA missions explore our solar system and search for new worlds, they are finding water in surprising places. Water is but ...",
+                    "content": "As NASA missions explore our solar system and search for new worlds, they are finding water in surprising places. Water is but one piece of our search for habitable planets and life beyond Earth, yet it links many seemingly unrelated worlds in surprising ways.\n\nPerhaps the most surprising water worlds are the five icy moons of Jupiter and Saturn that show strong evidence of oceans beneath their surfaces: Ganymede, Europa and Callisto at Jupiter, and Enceladus and Titan at Saturn. Scientists using NASA's Hubble Space Telescope recently provided powerful evidence that Ganymede has a saltwater, sub-surface ocean, likely sandwiched between two layers of ice.\n\nIn this artist’s concept, the moon Ganymede orbits the giant planet Jupiter. The Hubble Space Telescope observed aurorae on the moon generated by Ganymede’s magnetic fields. A saline ocean under the moon’s icy crust best explains shifting in the auroral belts measured by Hubble.\n\nMore: The Solar System and Beyond is Awash in Water\n\nImage Credit: NASA/ESA",
+                    "categories": []
+                },
+                {
+                    "title": "International Space Station Flyover of Australia",
+                    "link": "http://www.nasa.gov/content/international-space-station-flyover-of-australia",
+                    "author": "",
+                    "publishedDate": "Mon, 06 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "From the International Space Station, NASA astronaut Scott Kelly (stationcdrkelly on Instagram) took this photograph and posted ...",
+                    "content": "From the International Space Station, NASA astronaut Scott Kelly (stationcdrkelly on Instagram) took this photograph and posted it to social media on April 6, 2015. Kelly wrote, \"Australia. You are very beautiful. Thank you for being there to brighten our day. #YearInSpace\"\n\nKelly and Russian Federal Space Agency (Roscosmos) cosmonaut Mikhail Kornienko began their one-year mission aboard the space station on March 27. Most expeditions to the space station last four to six months. By doubling the length of this mission, researchers hope to better understand how the human body reacts and adapts to long-duration spaceflight.\n\nImage Credit: NASA",
+                    "categories": []
+                },
+                {
+                    "title": "Experimental Wing Tests Electric Propulsion Technologies",
+                    "link": "http://www.nasa.gov/content/experimental-wing-tests-electric-propulsion-technologies",
+                    "author": "",
+                    "publishedDate": "Fri, 03 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "Leading Edge Asynchronous Propeller Technology (LEAPTech) project researchers at NASA's Armstrong Flight Research Center are ...",
+                    "content": "Leading Edge Asynchronous Propeller Technology (LEAPTech) project researchers at NASA's Armstrong Flight Research Center are performing ground testing of a 31-foot-span, carbon composite wing section with 18 electric motors. The LEAPTech project will test the premise that tighter propulsion-airframe integration, made possible with electric power, will deliver improved efficiency and safety, as well as environmental and economic benefits.\n\nThe experimental wing, called the Hybrid-Electric Integrated Systems Testbed (HEIST), is mounted on a specially modified truck. Testing on the mobile ground rig assembly will provide valuable data and risk reduction applicable to future flight research. Instead of being installed in a wind tunnel, the HEIST wing section will remain attached to load cells on a supporting truss while the vehicle is driven at speeds up to 70 miles per hour across a dry lakebed at Edwards Air Force Base.\n\nLEAPTech to Demonstrate Electric Propulsion Technologies\n\nImage Credit: Joby Aviation",
+                    "categories": []
+                },
+                {
+                    "title": "Curiosity Sees Prominent Mineral Veins on Mount Sharp, Mars",
+                    "link": "http://www.nasa.gov/content/curiosity-sees-prominent-mineral-veins-on-mount-sharp-mars",
+                    "author": "",
+                    "publishedDate": "Thu, 02 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "This view from the Mast Camera (Mastcam) on NASA's Curiosity Mars rover shows a network of two-tone mineral veins at an area ...",
+                    "content": "This view from the Mast Camera (Mastcam) on NASA's Curiosity Mars rover shows a network of two-tone mineral veins at an area called \"Garden City\" on lower Mount Sharp. \n\nThe veins combine light and dark material. The veins at this site jut to heights of up to about 2.5 inches (6 centimeters) above the surrounding rock, and their widths range up to about 1.5 inches (4 centimeters). Figure 1 includes a 30-centimeter scale bar (about 12 inches). \n\nMineral veins such as these form where fluids move through fractured rocks, depositing minerals in the fractures and affecting chemistry of the surrounding rock. In this case, the veins have been more resistant to erosion than the surrounding host rock.\n\nThis scene is a mosaic combining 28 images taken with Mastcam's right-eye camera, which has a telephoto lens with a focal length of 100 millimeters. The component images were taken on March 18, 2015, during the 929th Martian day, or sol, of Curiosity's work on Mars. The color has been approximately white-balanced to resemble how the scene would appear under daytime lighting conditions on Earth.\n\nMalin Space Science Systems, San Diego, built and operates the rover's Mastcam. NASA's Jet Propulsion Laboratory, a division of the California Institute of Technology, Pasadena, manages the Mars Science Laboratory Project for NASA's Science Mission Directorate, Washington. JPL designed and built the project's Curiosity rover.\n\nFeature: Curiosity Eyes Prominent Mineral Veins on Mars\nMore information and image products\n\nImage Credit: NASA/JPL-Caltech/MSSS",
+                    "categories": []
+                },
+                {
+                    "title": "Space Station Flies Over Super Typhoon Maysak",
+                    "link": "http://www.nasa.gov/content/space-station-flies-over-super-typhoon-maysak",
+                    "author": "",
+                    "publishedDate": "Wed, 01 Apr 2015 09:00:00 -0700",
+                    "contentSnippet": "Typhoon Maysak strengthened into a super typhoon on March 31, reaching Category 5 hurricane status on the Saffir-Simpson Wind ...",
+                    "content": "Typhoon Maysak strengthened into a super typhoon on March 31, reaching Category 5 hurricane status on the Saffir-Simpson Wind Scale. ESA Astronaut Samantha Cristoforetti captured this image while flying over the weather system on board the International Space Station.\n\nThe Tropical Rainfall Measuring Mission (TRMM) and Global Precipitation Measurement (GPM) satellites, both co-managed by NASA and the Japan Aerospace Exploration Agency, captured rainfall and cloud data that revealed heavy rainfall and high thunderstorms in the strengthening storm.\n\n\n\nThe TRMM satellite has been collecting valuable scientific data since November 1997. Early on March 30, the satellite collected rainfall data as it flew directly above Maysak at 04:14 UTC (12:14 a.m. EDT) when maximum sustained winds were near 85 knots (98 mph). Rainfall data was collected by TRMM's Microwave Imager (TMI) and Precipitation Radar (PR) instruments and showed heaviest rainfall southwest of the center, and in fragmented bands of thunderstorms northeast of the center. In both of those places rainfall was in excess of 50 mm/2 inches per hour.\n\nMore information.\n\nImage Credit: ESA/NASA/Samantha Cristoforetti",
+                    "categories": []
+                },
+                {
+                    "title": "Pushing the Boundaries of Propelling Deep Space Missions",
+                    "link": "http://www.nasa.gov/content/pushing-the-boundaries-of-propelling-deep-space-missions-0",
+                    "author": "",
+                    "publishedDate": "Tue, 31 Mar 2015 09:00:00 -0700",
+                    "contentSnippet": "Engineers at NASA’s Glenn Research Center are advancing the propulsion system that will propel the first ever mission to ...",
+                    "content": "Engineers at NASA’s Glenn Research Center are advancing the propulsion system that will propel the first ever mission to redirect an asteroid for astronauts to explore in the 2020s.  NASA's Asteroid Redirect Mission will test a number of new capabilities, like advanced Solar Electric Propulsion (SEP), needed for future astronaut expeditions into deep space, including to Mars.\n\nThe Hall thruster is part of an SEP system that uses 10 times less propellant than equivalent chemical rockets. In a recent test, engineers from Glenn and the Jet Propulsion Laboratory, using a Glenn vacuum chamber to simulate the space environment, successfully tested a new, higher power Hall thruster design, which is more efficient and has longer life. “We proved that this thruster can process three times the power of previous designs and increase efficiency by 50 percent,” said Dan Herman, Electric Propulsion Subsystem lead.\n\nHall thrusters trap electrons in a magnetic field and use them to ionize the onboard propellant. The magnetic field also generates an electric field that accelerates the charged ions creating an exhaust plume of plasma that pushes the spacecraft forward. This method delivers cost-effective, safe and highly efficient in-space propulsion for long duration missions. In addition to propelling an asteroid mission, this new thruster could be used to send large amounts of cargo, habitats and other architectures in support of human missions to Mars.\n\nImage Credit: NASA\nMichelle M. Murphy (Wyle Information Systems, LLC)",
+                    "categories": []
+                },
+                {
+                    "title": "Hubble Views a Galaxy on Edge",
+                    "link": "http://www.nasa.gov/content/hubble-views-a-galaxy-on-edge",
+                    "author": "",
+                    "publishedDate": "Mon, 30 Mar 2015 09:00:00 -0700",
+                    "contentSnippet": "This NASA/ESA Hubble Space Telescope image shows an edge-on view of the spiral galaxy NGC 5023. Due to its orientation we ...",
+                    "content": "This NASA/ESA Hubble Space Telescope image shows an edge-on view of the spiral galaxy NGC 5023. Due to its orientation we cannot appreciate its spiral arms, but we can admire the elegant profile of its disk. The galaxy lies over 30 million light-years away from us.\n\n\n\nNGC 5023 is part of the M51 group of galaxies. The brightest galaxy in this group is Messier 51, the Whirlpool Galaxy, which has been captured by Hubble many times. NGC 5023 is less fond of the limelight and seems rather unsociable in comparison — it is relatively isolated from the other galaxies in the group.\n\n\n\nAstronomers are particularly interested in the vertical structure of disks like these. By analyzing the structure above and below the central plane of the galaxy they can make progress in understanding galaxy evolution. Astronomers are able to analyze the distribution of different types of stars within the galaxy and their properties, in particular how well evolved they are on the Hertzsprung–Russell Diagram — a scatter graph of stars that shows their evolution.\n\n\n\nNGC 5023 is one of six edge-on spiral galaxies observed as part of a study using Hubble’s Advanced Camera for Surveys. They study this vertical distribution and find a trend which suggests that heating of the disc plays an important role in producing the stars seen away from the plane of the galaxy.\n\n\n\nIn fact, NGC 5023 is pretty popular when it comes to astronomers, despite its unsociable behavior. The galaxy is also one of 14 disk galaxies that are part of the GHOSTS survey — a survey which uses Hubble data to study galaxy halos, outer disks and star clusters. It is the largest study to date of star populations in the outskirts of disk galaxies.\n\n\n\nThe incredible sharp sight of Hubble has allowed scientist to count more than 30,000 individual bright stars in this image. This is only a small fraction of the several billion stars that this galaxy contains, but the others are too faint to detect individually even with Hubble.\n\n\n\nEuropean Space Agency\n\nCredit: ESA/NASA",
+                    "categories": []
+                }
+            ]
+        }
+    },
+    "responseDetails": null,
+    "responseStatus": 200
+}

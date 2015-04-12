@@ -1,0 +1,8 @@
+---> On Logout :  
+
+1. Delete the session.
+2. Display the login page with a message that you have been logged out. (add the logout message template)
+
+---> Header Condition : 
+
+1. Change the header upon login and after logout --> Use ng-switch condition.

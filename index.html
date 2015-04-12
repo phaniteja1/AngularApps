@@ -1,0 +1,31 @@
+<!doctype html>
+<html ng-app="Demo">
+<head>
+	<meta charset="utf-8" />
+	<title> Single Page	News Application </title>
+	<!-- Bootstrap -->
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="css/myStyle.css">
+</head>
+<body ng-controller="AppController">
+
+		<div ng-include src="'templates/header.html'"></div>
+
+
+    <div ng-view=""></div>
+		
+		
+
+	<!-- Load scripts. -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.14/angular.js"></script>
+       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.0rc1/angular-route.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/angular-deckgrid.js"></script>
+	
+	<script src="app.js"></script>
+
+</body>
+</html>

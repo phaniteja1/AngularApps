@@ -1,0 +1,325 @@
+{
+    "responseData": {
+        "feed": {
+            "feedUrl": "http://feeds.foxnews.com/foxnews/most-popular?format=xml",
+            "title": "FOX News",
+            "link": "http://www.foxnews.com/",
+            "author": "",
+            "description": "FOXNews.com - Breaking news and video. Latest Current News: U.S., World, Entertainment, Health, Business, Technology, Politics, Sports.",
+            "type": "rss20",
+            "entries": [
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/U.S./Momdaughter32.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./60/60/Momdaughter32.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "St. Louis woman meets daughter, 49, that she thought died shortly after birth",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/wrXIq6PZrbs/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 07:46:48 -0700",
+                    "contentSnippet": "After nearly 50 years, a St. Louis woman has been reunited with a daughter she had been told had died just after the hospital ...",
+                    "content": "After nearly 50 years, a St. Louis woman has been reunited with a daughter she had been told had died just after the hospital delivery.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/wrXIq6PZrbs\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "us/regions",
+                        "fnc/us/regions"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/fn2/video/041115_anhq_shotsfired_640.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/60/60/041115_anhq_shotsfired_640.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "US Capitol Building reopens after shooting suicide on western steps",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/Qp8OKitDgCU/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 11:09:16 -0700",
+                    "contentSnippet": "Authorities responded Saturday to reports of shots fired on the West Front of the U.S. Capitol Building, prompting the entire ...",
+                    "content": "<span style=\"color:#262626\">Authorities responded Saturday to reports of shots fired on the West Front of the U.S. Capitol Building, prompting the entire building to be placed on lockdown.</span><img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/Qp8OKitDgCU\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "us",
+                        "fnc/us"
+                    ]
+                },
+                {
+                    "title": "Air Force fires general over A-10 jets 'treason' remarks",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/7e_y6oklPrE/",
+                    "author": "",
+                    "publishedDate": "Fri, 10 Apr 2015 17:08:37 -0700",
+                    "contentSnippet": "An Air Force general has been fired after an investigation into comments he made to lower-ranking officers about how talking to ...",
+                    "content": "An Air Force general has been fired after an investigation into comments he made to lower-ranking officers about how talking to members of Congress about the capabilities about the A-10 “Warthog” attack jet was tantamount to treason, the Air Force confirmed Friday.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/7e_y6oklPrE\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "politics",
+                        "fnc/politics",
+                        "/FOX NEWS/POLITICS/DEFENSE/Armed Forces"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/Entertainment/stephanie%20march%20and%20bobby%20flay%20in%20miami%20reuters.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Entertainment/60/60/stephanie%20march%20and%20bobby%20flay%20in%20miami%20reuters.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Stephanie March reportedly ended marriage to chef Bobby Flay",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/ecnSeaRAK0E/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 05:35:38 -0700",
+                    "contentSnippet": "“Law &#38; Order: SVU” actress Stephanie March ordered estranged husband Bobby Flay out of their home three weeks ago — after ...",
+                    "content": "“Law &amp; Order: SVU” actress Stephanie March ordered estranged husband Bobby Flay out of their home three weeks ago — after Flay had already left her alone for six weeks to film a TV show while she tended to her ill mother and battled her own personal health issues.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/ecnSeaRAK0E\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "New York Post",
+                        "fnc",
+                        "entertainment/celebrity-news",
+                        "fnc/entertainment/news",
+                        "/FOX NEWS/ENTERTAINMENT/EVENTS/Couples"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/Entertainment/john%20mellencamp%20with%20guitar%20reuters.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Entertainment/60/60/john%20mellencamp%20with%20guitar%20reuters.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Rocker John Mellencamp's sons plead guilty to misdemeanor battery",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/3kzEIsNnk_k/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 05:14:08 -0700",
+                    "contentSnippet": "A judge has sentenced the sons of rock star John Mellencamp after they both pleaded guilty to misdemeanor battery charges ...",
+                    "content": "A judge has sentenced the sons of rock star John Mellencamp after they both pleaded guilty to misdemeanor battery charges stemming from a July 2013 altercation.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/3kzEIsNnk_k\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "Associated Press",
+                        "fnc",
+                        "entertainment/celebrity-news",
+                        "fnc/entertainment/news",
+                        "/FOX NEWS/ENTERTAINMENT/EVENTS/In Court"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/U.S./humainternal515154.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./60/60/humainternal515154.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "IG to review ‘special’ program that let Clinton aide Huma Abedin have 2 jobs",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/v5QL95Y_yGA/",
+                    "author": "",
+                    "publishedDate": "Fri, 10 Apr 2015 21:00:42 -0700",
+                    "contentSnippet": "The State Department inspector general plans to review a controversial program that allowed a longtime Hillary Clinton aide to ...",
+                    "content": "The State Department inspector general plans to review a controversial program that allowed a longtime Hillary Clinton aide to work for a private firm at the same time she was working for the former secretary of state.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/v5QL95Y_yGA\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "politics",
+                        "fnc/politics",
+                        "/FOX NEWS/POLITICS/REGULATION"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/U.S./obamainternalcuba378373.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/U.S./60/60/obamainternalcuba378373.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Obama holds historic meeting with Cuba's Castro, pledges to 'turn the page'",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/py5TZ8itqtQ/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 12:52:24 -0700",
+                    "contentSnippet": "President Obama held a historic formal meeting with Cuban President Raul Castro Saturday, the first between US and Cuban ...",
+                    "content": "President Obama held a historic formal meeting with Cuban President Raul Castro Saturday, the first between US and Cuban leaders in over half a century, and pledging to 'turn the page' and develop a new relationship between the two countries.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/py5TZ8itqtQ\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "politics",
+                        "fnc/politics"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/Entertainment/madonna%20cat%20playboy.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Entertainment/60/60/madonna%20cat%20playboy.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Playboy publishes never-before-seen nude pics of Madonna",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/0sujl2I62ME/",
+                    "author": "",
+                    "publishedDate": "Fri, 10 Apr 2015 09:40:29 -0700",
+                    "contentSnippet": "Nude photos of a 21-year-old Madonna taken by photographer Martin H.M. Schreiber in 1979 are appearing for the first time in ...",
+                    "content": "Nude photos of a 21-year-old Madonna taken by photographer Martin H.M. Schreiber in 1979 are appearing for the first time in Playboy's May 2015 issue.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/0sujl2I62ME\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "entertainment/music",
+                        "fnc/entertainment/music"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/Entertainment/justin%20bieber%20at%20red%20carpet%20roast%20reuters.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Entertainment/60/60/justin%20bieber%20at%20red%20carpet%20roast%20reuters.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Argentine judge orders arrest warrant for Justin Bieber",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/NCXptbhpQeg/",
+                    "author": "",
+                    "publishedDate": "Sat, 11 Apr 2015 04:57:19 -0700",
+                    "contentSnippet": "An Argentine judge has issued an arrest warrant for Justin Bieber on Friday, saying the singer failed to respond to summons ...",
+                    "content": "An Argentine judge has issued an arrest warrant for Justin Bieber on Friday, saying the singer failed to respond to summons related to allegations he ordered bodyguards to attack a photographer in 2013.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/NCXptbhpQeg\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "Associated Press",
+                        "fnc",
+                        "entertainment/celebrity-news",
+                        "fnc/entertainment/news",
+                        "/FOX NEWS/ENTERTAINMENT/EVENTS/Arrest"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://global.fncstatic.com/static/managed/img/Scitech/leann%20rimes%20stretch%20marks.jpg",
+                                    "medium": "image",
+                                    "isDefault": "true"
+                                },
+                                {
+                                    "url": "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/Scitech/60/60/leann%20rimes%20stretch%20marks.jpg",
+                                    "medium": "image",
+                                    "height": 60,
+                                    "width": 60
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "LeAnn Rimes: I'm proud of my stretch marks",
+                    "link": "http://feeds.foxnews.com/~r/foxnews/most-popular/~3/pygJYGLAD3o/",
+                    "author": "",
+                    "publishedDate": "Thu, 09 Apr 2015 23:00:56 -0700",
+                    "contentSnippet": "LeAnn Rimes wants you to know that she's proud of her stretch marks.",
+                    "content": "LeAnn Rimes wants you to know that she's proud of her stretch marks.<img src=\"http://feeds.feedburner.com/~r/foxnews/most-popular/~4/pygJYGLAD3o\" height=\"1\" width=\"1\" alt=\"\">",
+                    "categories": [
+                        "article",
+                        "FoxNews.com",
+                        "fnc",
+                        "entertainment/style",
+                        "fnc/entertainment/style",
+                        "/FOX NEWS/ENTERTAINMENT/GENRES/Diet &amp; Fitness"
+                    ]
+                }
+            ]
+        }
+    },
+    "responseDetails": null,
+    "responseStatus": 200
+}
