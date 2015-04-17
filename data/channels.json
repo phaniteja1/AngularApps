@@ -1,26 +1,36 @@
 [
-	{
-		"name":"New York Times"
+
+    {	
+    	"name" : "Washington Post",
+    	"category" : "Politics"
 	},
 
 	{
-		"name":"Wall Street Journal"
+
+		"name" : "Wall Street Journal",
+		"category" : "Politics"
 	},
 
 	{
-		"name":"Times of India"
-	},
-
-	{
-		"name":"Reuters"
+		"name" : "New York Times",
+		"category" : "Politics"
 	},
 
 
 	{
-		"name":"Fox News"
+		"name" : "Fox News",
+		"category" : "Politics"
 	},
 
+
 	{
-		"name":"ABC News"
+		"name" : "Reuters",
+		"category" : "Politics"
+	},
+
+
+	{
+		"name" : "Times of India",
+		"category" : "Politics"
 	}
 ]

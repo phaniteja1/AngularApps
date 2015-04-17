@@ -1,42 +1,12 @@
 
 
-var app = angular.module( "Demo", ['ngRoute','akoenig.deckgrid'] );
+var app = angular.module( "Demo", [
+              'ngRoute',
+              'akoenig.deckgrid',
+              'ngStorage'
+          ]);
 
 
-    // -------------------------------------------------- //
-    // ----------------------------------------------//
-
-    /*myApp.factory('UserService', function() {
-      return {
-        name : 'anonymous'
-      };
-    });*/
-
-    // I control the root of the application.
-    app.controller("AppController",
-      function( $scope,$http ) {
-
-        channelsArray = new Array("times","foxnews","reuters");
-
-        // I hold the collection of active news_items.
-        $scope.newsItems=[];
-        for(i=0;i<channelsArray.length;i++)
-        {
-            $http.get("data/"+channelsArray[i]+".json")
-              .then(function(res){
-            
-              $scope.newsItemsPartial = res.data.responseData.feed.entries;
-              //console.log($scope.newsItemsPartial);
-              //console.log($scope.newsItems);
-              $scope.newsItems = $scope.newsItems.concat($scope.newsItemsPartial);                  
-            });
-        }
-
-
-        // ---
-        // PRIVATE METHODS.
-        // ---
-    });
 
     /**
  * Configure the Routes
@@ -50,73 +20,63 @@ app.config(['$routeProvider', function ($routeProvider) {
       })
       .when('/Home',{
         templateUrl: 'templates/news_items.html',
+        controller: 'AppController'
+      })
+      .when('/Logout',{
+        templateUrl: 'templates/login.html',
         controller: 'MainController'
-      }).
-      otherwise({
+      })
+      .otherwise({
         redirectTo: '',
         templateUrl: 'templates/login.html',
         controller: 'MainController'
       });
 }]);
 
-/** App Factory **/
+/** Root Scope **/
+app.run(function($rootScope,$localStorage) {
 
-app.factory('accessFac',function(){
-  var obj = {}
-  this.access = false;
-  obj.checkPermission = function(username,password){    //set the permission to true
+    //$rootScope.$isLoggedIn = false;
 
-    if(username == "test" && password == "test")
-    {
-      console.log("User Granted permission");
-      this.access = true;  
+    $rootScope.$storage = $localStorage;
+
+    $rootScope.$storage = $localStorage.$default({
+
+          isLoggedIn : false,
+
+          channelsLocalArray:["Washington Post","Wall Street Journal","New York Times","Fox News","Reuters","Times of India"]
+    });
+
+    $rootScope.channelsForUser = function(param) {
+        return param;
     }
-    
-  }
-  obj.getPermissionStatus = function(){
-    return this.access;       //returns the users permission level 
-  }
-  return obj;
+
+    $rootScope.getFileName = function(channelName){
+
+      switch(channelName){
+
+        case "Washington Post" : return "washingtonpost"; break;
+        case "Wall Street Journal" : return "wsj"; break;
+        case "New York Times" : return "nyt"; break;
+        case "Fox News" : return "foxnews"; break;
+        case "Reuters" : return "reuters"; break;
+        case "Times of India" : return "times"; break;
+      }
+    }
 });
 
-/**
- * Controls the Blog
- */
+/** Controls the Login **/
+app.controller('AuthController', ['$scope', '$localStorage' ,'$location',
 
-app.controller('ChannelsController', function($scope, $http){
-
-  $scope.message = "This is the channels page";
-
-  $http.get('data/channels.json')
-          .then(function(res){
-            //console.log(res.data.responseData.feed.entries);
-            //$scope.newsItems = res.data.responseData.feed.entries;                
-            console.log(res.data);
-            $scope.channels = res.data;                
-        });
-  console.log("Clicked channels");
-});
-
-
-app.controller('MainController', function($scope){
-
-  $scope.message = "This is the home page";
-  console.log("Clicked Home");
-});
-
-/*app.controller('AuthController',$location,function($scope, $location){
-
-    $scope.checkAuthentication = function () {
-        $location.path("templates/news_items.html");
-    };   
-
-});*/
-
-app.controller('AuthController', ['$scope', '$location',
-
-function ($scope, $location) {
+function ($scope, $localStorage, $location) {
 
     $scope.showError = false;
+
+    $scope.checkLoginStatus = function(){
+
+      return $localStorage.isLoggedIn;
+      console.log($localStorage.isLoggedIn);
+    }
 
     $scope.checkAuthentication = function (username,password) {
 
@@ -124,6 +84,8 @@ function ($scope, $location) {
         {
 
             console.log("User has access");
+
+            $localStorage.isLoggedIn = true;
 
             $location.path("/Home");
         }
@@ -136,6 +98,86 @@ function ($scope, $location) {
 
         
     };
+}]);
 
+/** Controls the news display page **/
+
+app.controller("AppController",
+      function( $scope, $localStorage, $http ) {
+
+      $scope.init = function(){
+
+        console.log("In init function");
+        console.log($localStorage.channelsLocalArray);
+      }
+
+        $scope.channelsArray = $localStorage.channelsLocalArray;
+
+        // I hold the collection of active news_items.
+        $scope.newsItems=[];
+        for(i=0;i<$scope.channelsArray.length;i++)
+        {
+            $http.get("data/"+$scope.getFileName($scope.channelsArray[i])+".json")
+              .then(function(res){
+            
+              $scope.newsItemsPartial = res.data.responseData.feed.entries;
+            
+              $scope.newsItems = $scope.newsItems.concat($scope.newsItemsPartial);               
+            });
+        }
+});
+
+/**
+ * Controls the Channels
+ */
+
+app.controller('ChannelsController', ['$scope', '$localStorage', '$http',
+
+function ($scope, $localStorage, $http) {
+
+    $scope.init = function(){
+
+        console.log("In init function");
+    }
+
+  $scope.message = "This is the channels page";
+
+  $http.get('data/channels.json')
+          .then(function(res){
+
+            $scope.channels = res.data;                
+  });
+
+    $scope.addChannel = function addChannel(channelName) {
+
+            var newChannel = channelName;
+            $localStorage.channelsLocalArray = $localStorage.channelsLocalArray.concat(channelName);
+    }
+
+    $scope.deleteChannel = function deleteChannel(channelName) {
+
+            var index = $localStorage.channelsLocalArray.indexOf(channelName);
+
+            if (index > -1) {
+                $localStorage.channelsLocalArray.splice(index, 1);
+            }         
+    }
+
+    $scope.isChannel = function isChannel(channelName) {
+
+      var index = $localStorage.channelsLocalArray.indexOf(channelName);
+      if(index > -1) return true; else return false;
+    }
 
 }]);
+
+
+app.controller('MainController', function($scope,$localStorage){
+
+  console.log("In Main Controller");
+
+  $localStorage.isLoggedIn = false;
+  
+});
+
+

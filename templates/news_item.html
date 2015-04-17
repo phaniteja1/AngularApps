@@ -2,11 +2,12 @@
 <!-- BEGIN: Template for User. -->
 <div class="news_card">
   <div class="thumbnail a-card">
+  		<!-- <img ng-src="{{card.image}}" alt="..."> -->
         <div class="caption">
-        	<h4> {{card.title}}</h4>
-        	<p>{{card.contentSnippet}} </p>
-        	<p><a href="{{card.link}}" target="_blank" class="btn btn-success" role="button">Read More</a> </p>
-        	<!-- <span class="label label-info"> Times of India</span> -->
+        	<p><b> {{card.title}}</b></p>
+        	<small>{{card.contentSnippet}} </small>
+        	<p><a href="{{card.link}}" target="_blank" class="btn btn-lg btn-block btn-info" role="button">Read More</a> </p>
+        	<p class="label btn-block btn-success news_channel_name"> {{card.channelName}}</p>
       	</div>
    </div>
 </div>

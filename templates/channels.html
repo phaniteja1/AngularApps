@@ -1,3 +1,6 @@
-<div deckgrid class="deckgrid" source="channels" cardTemplate="templates/channel.html">
-   			
+<div ng-init="init()">
+	<div  ng-repeat="t in channels track by $index">
+		<div ng-include src="'templates/channel.html'"></div>
+	</div>
 </div>
+ 

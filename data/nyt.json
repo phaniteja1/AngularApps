@@ -1,0 +1,265 @@
+{
+    "responseData": {
+        "feed": {
+            "feedUrl": "http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+            "title": "NYT &gt; Home Page",
+            "link": "http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss",
+            "author": "",
+            "description": "HomePage",
+            "type": "rss20",
+            "entries": [
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/world/ALT-SUB2PREXY1/ALT-SUB2PREXY1-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "President Obama met with President Dilma Rousseff of Brazil on Saturday. She is scheduled to visit the White House in June.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Stephen Crowley/The New York Times"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Obama Meets Raúl Castro, Making History",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454e1768/sc/7/l/0L0Snytimes0N0C20A150C0A40C120Cworld0Camericas0Cobama0Ecuba0Esummit0Eof0Ethe0Eamericas0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 19:06:07 -0700",
+                    "contentSnippet": "President Obama came to the Summit of the Americas in Panama determined to defuse a generations-old regional dispute over ...",
+                    "content": "President Obama came to the Summit of the Americas in Panama determined to defuse a generations-old regional dispute over Cuba’s exclusion from the meeting.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454e1768/sc/7/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851479518/u/31/f/640350/c/34625/s/454e1768/sc/7/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Cuba",
+                        "Obama, Barack",
+                        "United States International Relations",
+                        "Panama",
+                        "Summit of the Americas"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/sports/12mastersWEB2/12mastersWEB2-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "Jordan Spieth on the 15th hole. He finished Saturday's round with a two-under-par 70.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Andrew Gombert/European Pressphoto Agency"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Jordan Spieth Holds On to Masters Lead, Despite All-Star Charge",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454fd5d4/sc/13/l/0L0Snytimes0N0C20A150C0A40C120Csports0Cgolf0Cjordan0Espieth0Eholds0Eon0Eto0Emasters0Elead0Edespite0Eall0Estar0Echarge0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 17:42:05 -0700",
+                    "contentSnippet": "At 16 under par, Spieth is four strokes ahead of Justin Rose and five ahead of Phil Mickelson entering the final round.",
+                    "content": "At 16 under par, Spieth is four strokes ahead of Justin Rose and five ahead of Phil Mickelson entering the final round.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454fd5d4/sc/13/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851487760/u/31/f/640350/c/34625/s/454fd5d4/sc/13/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Masters Golf Tournament",
+                        "Rose, Justin",
+                        "Mickelson, Phil",
+                        "Professional Golfers Assn",
+                        "Woods, Tiger",
+                        "Golf",
+                        "Spieth, Jordan",
+                        "Augusta National Golf Club"
+                    ]
+                },
+                {
+                    "title": "U.S. Capitol Locked Down After Shots Are Fired in Apparent Suicide",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454f4d81/sc/16/l/0L0Snytimes0N0C20A150C0A40C120Cus0Ccapitol0Eis0Elocked0Edown0Eafter0Eshots0Eare0Efired0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 16:57:39 -0700",
+                    "contentSnippet": "The Capitol Police in Washington said a person had died of a self-inflicted gunshot wound outside the west front of the ...",
+                    "content": "The Capitol Police in Washington said a person had died of a self-inflicted gunshot wound outside the west front of the building.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454f4d81/sc/16/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851431314/u/31/f/640350/c/34625/s/454f4d81/sc/16/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Capitol Building (Washington, DC)",
+                        "United States Capitol Police"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/sports/METS/METS-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "The Mets' Jenrry Mejia in an exhibition game April 3. Major League Baseball announced Saturday that he would be suspended for 80 games.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Tony Gutierrez/Associated Press"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Mets’ Jenrry Mejia Is Suspended 80 Games for Doping Violation",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/45502dfd/sc/13/l/0L0Snytimes0N0C20A150C0A40C120Csports0Cbaseball0Cmets0Ejenrry0Emejia0Eis0Esuspended0E80A0Egames0Efor0Edoping0Eviolation0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 16:55:59 -0700",
+                    "contentSnippet": "Pitcher Jenrry Mejia is the fourth player in the past few weeks to test positive for stanozolol, a performance-enhancing ...",
+                    "content": "Pitcher Jenrry Mejia is the fourth player in the past few weeks to test positive for stanozolol, a performance-enhancing substance.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/45502dfd/sc/13/mf.gif\" border=\"0\"><br>",
+                    "categories": [
+                        "Baseball",
+                        "Doping (Sports)",
+                        "Tests (Drug Use)",
+                        "Mejia, Jenrry",
+                        "New York Mets",
+                        "Major League Baseball",
+                        "Sports Injuries"
+                    ]
+                },
+                {
+                    "title": "2 College Students Charged in Sexual Attack on Florida Beach",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/45501c84/sc/16/l/0L0Snytimes0N0Caponline0C20A150C0A40C110Cus0Cap0Eus0Egang0Erape0Espring0Ebreak0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 16:17:02 -0700",
+                    "contentSnippet": "The students were accused of attacking the woman on a beach filled with spring-break revelers who apparently did nothing to ...",
+                    "content": "The students were accused of attacking the woman on a beach filled with spring-break revelers who apparently did nothing to stop it, the authorities said.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/45501c84/sc/16/mf.gif\" border=\"0\"><br>",
+                    "categories": []
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/world/JP-RESPONSE2/JP-RESPONSE2-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "A drop in Ebola cases in Liberia lessened the need for treatment units such as this Defense Ministry center.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Daniel Berehulak for The New York Times"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Empty Ebola Clinics in Liberia Are Seen as Misstep in U.S. Relief Effort",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454fadfe/sc/7/l/0L0Snytimes0N0C20A150C0A40C120Cworld0Cafrica0Cidle0Eebola0Eclinics0Ein0Eliberia0Eare0Eseen0Eas0Emisstep0Ein0Eus0Erelief0Eeffort0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 16:11:23 -0700",
+                    "contentSnippet": "After spending hundreds of millions of dollars and deploying nearly 3,000 troops, only 28 Ebola patients have been treated at ...",
+                    "content": "After spending hundreds of millions of dollars and deploying nearly 3,000 troops, only 28 Ebola patients have been treated at the 11 treatment units built by the United States military in Liberia.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454fadfe/sc/7/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851430844/u/31/f/640350/c/34625/s/454fadfe/sc/7/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "United States Defense and Military Forces",
+                        "Liberia",
+                        "Ebola Virus",
+                        "Foreign Aid"
+                    ]
+                },
+                {
+                    "title": "Maoist Rebels Kill at Least 7 Police Officers in India",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454fbd79/sc/16/l/0L0Snytimes0N0C20A150C0A40C120Cworld0Casia0Cmaoist0Erebels0Ekill0Eat0Eleast0E70Epolice0Eofficers0Ein0Eindia0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 15:20:22 -0700",
+                    "contentSnippet": "Gunmen ambushed a unit of police officers who were conducting a mission in Chhattisgarh State.",
+                    "content": "Gunmen ambushed a unit of police officers who were conducting a mission in Chhattisgarh State.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454fbd79/sc/16/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851476474/u/31/f/640350/c/34625/s/454fbd79/sc/16/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "India",
+                        "Chhattisgarh (India)",
+                        "Attacks on Police",
+                        "Mao Zedong"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/nyregion/12Carbon/12Carbon-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "Thomas Cipriano, who lived across the street from Jerry and Marie Hugel on 86th Avenue in Floral Park, Queens, said his neighbors seemed to be in the midst of their routines on Thursday night.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Robert Stolarik for The New York Times"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "In Queens House Where 4 Died, No Detector for Carbon Monoxide",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454fba60/sc/31/l/0L0Snytimes0N0C20A150C0A40C120Cnyregion0Cin0Equeens0Ewhere0E40Edied0Eno0Edetector0Efor0Edeadly0Egas0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 13:40:55 -0700",
+                    "contentSnippet": "The four bodies were found inside the home in Floral Park, Queens, on Friday after a New York police sergeant went to check on ...",
+                    "content": "The four bodies were found inside the home in Floral Park, Queens, on Friday after a New York police sergeant went to check on his parents.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454fba60/sc/31/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851475979/u/31/f/640350/c/34625/s/454fba60/sc/31/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Fire Department (NYC)",
+                        "Carbon Monoxide",
+                        "Deaths (Fatalities)",
+                        "Floral Park (Queens, NY)"
+                    ]
+                },
+                {
+                    "mediaGroups": [
+                        {
+                            "contents": [
+                                {
+                                    "url": "http://graphics8.nytimes.com/images/2015/04/12/us/12charleston/12charleston-moth.jpg",
+                                    "height": 151,
+                                    "width": 151,
+                                    "description": "Pallbearers carrying the casket of Walter L. Scott, who was fatally shot  by a police officer, from  the W.O.R.D. Ministries Christian Center in Summerville, S.C., on Saturday.",
+                                    "credits": [
+                                        {
+                                            "scheme": "urn:ebu",
+                                            "content": "Gabriella Demczuk for The New York Times"
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ],
+                    "title": "Racism Denounced at Walter Scott’s Funeral One Week After Police Shooting",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454e97f0/sc/7/l/0L0Snytimes0N0C20A150C0A40C120Cus0Cwalter0Escott0Efuneral0Epolice0Eshooting0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 13:16:35 -0700",
+                    "contentSnippet": "Mourners lined up at the church in South Carolina on Saturday, including many who had never met Mr. Scott, and heard a pastor ...",
+                    "content": "Mourners lined up at the church in South Carolina on Saturday, including many who had never met Mr. Scott, and heard a pastor denounce racism.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454e97f0/sc/7/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851470500/u/31/f/640350/c/34625/s/454e97f0/sc/7/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Murders, Attempted Murders and Homicides",
+                        "Police Brutality, Misconduct and Shootings",
+                        "Slager, Michael T (1981- )",
+                        "Scott, Walter L (1950-2015)",
+                        "North Charleston (SC)"
+                    ]
+                },
+                {
+                    "title": "Separatists Claim Attack That Killed 20 in Pakistan",
+                    "link": "http://rss.nytimes.com/c/34625/f/640350/s/454cd3c8/sc/40/l/0L0Snytimes0N0C20A150C0A40C120Cworld0Casia0Cgunmen0Ekill0E20A0Eworkers0Ein0Epakistan0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm",
+                    "channelName": "New York Times",
+                    "publishedDate": "Sat, 11 Apr 2015 12:29:35 -0700",
+                    "contentSnippet": "Separatists claimed responsibility for an attack on construction workers in Baluchistan Province, which has simmered with an ...",
+                    "content": "Separatists claimed responsibility for an attack on construction workers in Baluchistan Province, which has simmered with an insurgency for decades.<img width=\"1\" height=\"1\" src=\"http://rss.nytimes.com/c/34625/f/640350/s/454cd3c8/sc/40/mf.gif\" border=\"0\"><br><br><br><a href=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/1/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/1/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/2/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/2/rc.img\" border=\"0\"></a><br><a href=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/3/rc.htm\" rel=\"nofollow\"><img src=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/rc/3/rc.img\" border=\"0\"></a><br><br><a href=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/a2.htm\"><img src=\"http://da.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/a2.img\" border=\"0\"></a><img width=\"1\" height=\"1\" src=\"http://pi.feedsportal.com/r/224851448161/u/31/f/640350/c/34625/s/454cd3c8/sc/40/a2t.img\" border=\"0\">",
+                    "categories": [
+                        "Pakistan",
+                        "Baluch (Ethnic Group)",
+                        "Baluchistan (Pakistan)"
+                    ]
+                }
+            ]
+        }
+    },
+    "responseDetails": null,
+    "responseStatus": 200
+}
