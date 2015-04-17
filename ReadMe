@@ -1,8 +1,27 @@
----> On Logout :  
+ Newsify 
 
-1. Delete the session.
-2. Display the login page with a message that you have been logged out. (add the logout message template)
+Newsify is a single page application built using Angular JS.
 
----> Header Condition : 
+The user can login and view the news from different channels. The user even has the option of choosing the channels from which he wishes the newsfeed from. 
 
-1. Change the header upon login and after logout --> Use ng-switch condition.
+The newsfeed is typically from the RSS Feeds that are converted into JSON. The app takes advantage of local storage by using Angular's ngStorage local storage module. 
+
+The App has a Login Screen with 
+
+Username : test and Password : test
+
+This is handled by the AuthController which determines the login status and route the user to the home page. 
+
+In the Home page, the user is presented with the newsfeed. A news item is a template holding the data of that particular news and this template is iterated using news-items.html template acting as a container for the whole newsfeed. 
+
+The user is routed to the channels page, when the channels option is clicked on the navbar. Here, he can add or delete a channel from the list of available channels. The "Add Channel" or "Delete Channel" buttons are switched based on the condition if the channel already is added in the local storage. 
+
+The header shows options like home, channels and logout if the user is logged in and these options are absent if the user is not logged in, for example in the login page. 
+
+Future Improvements: 
+
+-- Create user profile management by making user's register.
+-- Change the login to sessions management.
+-- Add database functionality
+-- Clean the code and separate the controllers.
+-- Add more channels and categories for the user to choose from. 
